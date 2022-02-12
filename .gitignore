@@ -1,0 +1,11 @@
+.*
+!.gitignore
+datasets/
+code/MobileFaceNet_Pytorch/__pycache__/
+code/MobileFaceNet_Pytorch/.idea/
+code/MobileFaceNet_Pytorch/model/
+!code/MobileFaceNet_Pytorch/model/best
+code/MobileFaceNet_Pytorch/result/
+!code/MobileFaceNet_Pytorch/result/best_result.mat
+
+code/Pytorch_Retinaface/weights

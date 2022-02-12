@@ -1,0 +1,1 @@
+from MobileFaceNet_Pytorch.compute_face_vec import FaceVectorComputer
